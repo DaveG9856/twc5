@@ -1,0 +1,160 @@
+---- Wrestling ----
+--- MPire 2008 ---
+CAREER EDITION
+www.MDickie.com
+Mat@MDickie.com
+
+* This document concerns itself with the functionality of the game. For more information about the Career mode, please refer to the additional "Career Guide.txt" document...
+
+2008 is the year that 'good' becomes GREAT! After almost a decade of specializing in the genre, MDickie finally brings you wrestling at its most highly evolved. If you're going to survive in this new era, you'll need to be at your best too. The most finely tuned statistics yet ensure that every percent counts when you square up against 200 unique opponents, spread across 6 major promotions. Meanwhile, the smoother and more responsive gameplay leaves no room for excuses in an action-packed ring where anything can happen. Polished off with the best graphics and presentation that a PC can handle, you'd be forgiven for thinking you've found employment at a real wrestling show! And that's exactly what this "Career Edition" challenges you to do. Step backstage and seize control of your life with twice as many options, and talk your way through a political minefield that features twice as many pitfalls, as you embark on a career full of possibilities. 2008 is just the starting point. The rest of wrestling history is yours to write...
+
+SYSTEM REQUIREMENTS
+- This game requires an operating system compatible with DirectX 7.0 graphics or higher.
+- A strong processor of at least 1.6gHz is recommended to run the game properly.
+- Please consult the "Preferences" and "Display" menus to configure the game for optimum performance. 
+- Vista users may experience difficulties on "Limited Accounts" and should log in as an "Administrator".
+- Although keyboard control is available, the game is designed to be played with a 6-button gamepad.
+
+---------------------------------------- CONTROLS -------------------------------------------------------------------
+
+MENUS
+The menus of the game can be navigated with either keys, gamepad or mouse. Highlighting an option with the cursors and pressing ENTER (or any gamepad button) will access it, whereas hitting ESCAPE cancels or returns you to the previous screen. Settings can be adjusted by simply using left and right directions (or left and right clicks in the case of a mouse), and where there are countless possibilities you should find that you can "randomize" your way closer to what you want with the SPACE BAR or "revert" with BACKSPACE. You may find that some screens have even further interactivity, which is as follows:
+- Press TAB at the character selection screen to switch between a grid or list of boxes.
+- Click on a particular statistic in the rankings to re-order the list accordingly.
+- Right-click on a character box to initiate and execute a swap of positions.
+- While studying the "Database", click on the list to browse categories and click on the upper logo to browse promotions.
+- At the calendar screen, left-click over the schedule to drag it further to either side.
+- During meetings, right-click to view an alternative character profile (i.e. theirs if its currently yours).
+* Look out for on-screen prompts that remind you of the options available to you at any given time.
+
+GAMEPLAY
+The game itself can only be controlled with keys or gamepad. You may assign your preferred method (including CPU control) to each character while setting up an "Exhibition" match by repeatedly clicking on their name box. In the case of the Career mode, your star character can always be controlled by either method. The precise control layout for both each method can be redefined in the "Preferences" menu (which is strongly recommended in the case of gamepads!), but as standard they are as follows:
+
+KEYS
+A = Attack
+S = Grab opponent / Throw weapon / Cancel action
+Z = Run
+X = Pick up / Drop
+SPACE = Taunt / Pin attempt / Referee duties
+LEFT CTRL = Switch target enemy
+
+GAMEPAD
+BUTTON 1 = Attack
+BUTTON 2 = Grab opponent / Throw weapon / Cancel action
+BUTTON 3 = Run
+BUTTON 4 = Pick up / Drop
+BUTTON 7 = Taunt / Pin attempt / Referee duties
+BUTTON 5 = Switch target enemy
+
+COMBINATIONS
+Whichever keys they're assigned to, multiple commands can then be used to perform further actions:
+ATTACK + DIRECTION = Upper attack (as opposed to Lower Attack)
+ATTACK + RUN = Big attack / Crush attack / Flying crush against standing opponent
+ATTACK whilst RUNNING = Running attack / Running crush
+RUN + DIRECTION = Manual running (as opposed to a direct charge)
+ATTACK + GRAPPLE or GRAPPLE + PICK-UP = Block
+PICK-UP + RUN = Set fire to weapon / Use flaming weapon to set fire to item / Fix broken item
+
+Other actions can be performed by the way you use movement:
+- Walk repeatedly against the ropes or apron to climb in or out of the ring.
+- Walk diagonally into the turnbuckles to climb up or down.
+- Walk repeatedly against items, railings, or the walls of cage, to climb on or off.
+- Walk repeatedly against a correctly positioned team-mate on the apron to tag them in.
+- Press TAUNT near a turnbuckle to unfasten the top pad!
+
+GRAPPLING
+Grabbing an opponent opens up a whole range of commands in itself. Once you have an opponent under your control you have a limited time to perform the following actions:
+GRAPPLE = Release
+GRAPPLE + DIRECTION = Irish Whip
+ATTACK (+ DIRECTION) = One of 4 preset 'A' moves
+RUN (+ DIRECTION) = One of 4 preset 'B' moves
+PICK-UP (+ DIRECTION) = One of 4 preset 'C' moves
+
+You have similar commands at your disposal upon grabbing a grounded opponent:
+GRAPPLE = Release
+GRAPPLE + DIRECTION = Drag up into a standing grapple
+ATTACK / RUN / PICK-UP = One of 3 preset moves for that part of the body
+
+OTHER CONTROLS
+You may like to make use of the following commands while a match is in progress:
+ESCAPE = Skip entrances / Skip conversations / Terminate current match / Leave a finished match
+ENTER = Skip entrances / Skip conversations / Leave a finished match
+P = Pause / Resume
+TAB = Assume control of a different character (Exhibitions only)
+1 - 0 = Activate one of 10 preset camera angles (press again to browse sub-categories)
+MOUSE = Manual camera (click to zoom)
+F1 - F4 = Adjust game speed (from Normal to Very Fast)
+F5 = Toggle health displays
+F12 = Save a screenshot to the "Photo Album" folder  
+
+---------------------------------------- MATCH TYPES ---------------------------------------------------
+
+When configuring your own matches, you may like to consider the following definitions:
+
+AIMS
+"First Fall Wins" = First character to score a fall wins
+"Best Of Three" = First character to score 2 falls wins
+"Ironman" = Wrestler with most falls in time limit wins
+"Last Fall Wins" = Last character to score a fall before the final bell wins
+"Elimination" = Last wrestler to survive wins
+
+RULES
+"Hardcore" = No disqualifications or rope breaks, and falls count anywhere in the arena
+"Normal" = No disqualifications, but falls only count in the ring and rope breaks are enforced
+"Strict" = As above, but weapon use results in disqualification
+
+FORMAT
+"Intervals" = After the first 2, wrestlers enter the match at timed intervals
+"Individuals" = Every wrestler fights for himself
+"Teams" = The wrestlers are divided into 2 teams
+"Tag Teams" = As above, but only one wrestler can fight at a time and must tag in others
+
+CONDITIONS
+"Pins" = A fall is scored when one wrestler pins another for the count of 3
+"Submissions" = A fall is scored when one wrestler makes another submit
+"Knock-Out's" = Elimination occurs when a wrestler is found to be motionless and without any health
+"Bleeding" = Elimination occurs when a wrestler's face is found to be bleeding heavily
+"Count-Out's" = Determine how leaving the ring is punished (if at all)
+
+TIME LIMIT
+The number of minutes after which the match is called a tie (or awarded to the healthiest participant).
+
+
+---------------------------------------------------- EDITING ----------------------------------------------------------------------------
+
+CHARACTERS
+The game contains a sophisticated editing facility for creating your star character (and editing the whole universe once the privilege has been earned!). Here you have a limited amount of points with which to create your starting profile, before specifying the costumes and character traits that make your character unique. Because of the added complexity of customizing an entire character, several unique options come into play. You can input a new name by clicking or pressing BACKSPACE over the existing one. Also remember that the character model needs to be reloaded upon being assigned a significantly different weight, and you must press ENTER over the option to trigger that process. When browsing the many clothing options, you may also like to consider that it's possible to skip closer to what you're looking for by pressing the SPACE BAR to randomize the current option or BACKSPACE to reset it. Depending on the status of your career, you may find that many of these options have ceased to be available to you once the game starts - so take care to perfect your starting character...
+
+Upon selecting to edit a character's "Relationships", you will be whisked off to a whole other screen where you can click on every other character in the world and adjust the relationship between them. Each click browses between "Enemy" status (red), "Friend" status (green), or nothing at all - much like selecting a character in Exhibitions. These changes are automatically mirrored in the target's profile, so there's no need to go through it twice. If you'd rather not go through it at all, you can randomize a character's relationships with a simple hit of TAB or clear their network completely with BACKSPACE...
+
+PROMOTIONS
+Once you start making progress in the Career mode and unlock the various promotions, you may want to consider the new options that are available to you. You can change a promotion's name (like a character's) by pressing BACKSPACE over the slot and entering a new one. While it's highlighted, you can also instantly change its bank balance with Q / W, its "Popularity" with A / S, and its "Reputation" with Z / X. Once you're inside and examining the roster, you can then manipulate individual characters with the following commands:
+B = Assign booker
+W = Assign World Champion
+I = Assign Inter Champion
+T / Y = Assign Tag Champions
+C = Assign cup holder
+1 = Trade to Federation Online
+2 = Trade to All American Wrestling
+3 = Trade to United Kingdom Wrestling
+4 = Trade to Rising Sun Puroresu
+5 = Trade to Maple Leaf Grappling
+6 = Trade to Super Lucha Libre
+7 = Trade to Wrestling School (unemployed)
+8 = Trade to Hollywood (retired)
+9 = Trade to Legends (deceased)
+BACKSPACE = Reset health status
+ALT + C = Reset contract status
+
+Take care when choosing which "universe" to unleash your Godly powers on! In addition to the 3 unique saved game slots, you can also edit the "Default" world - which is what a new career will start with. If you find you've edited this beyond repair, you can restore the original universe by clicking the "Reset Universe" option...
+
+FURTHER EDITING
+And that's just the tip of the iceberg! Almost every selection of media - from the costumes to the theme tunes - is designed to be expanded with your own creations. Take care in doing this and study the "Editor's Notes" documents that lie in each customizable folder...
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+For more information about this game and its predecessors, 
+please visit: http://www.MDickie.com 
+or contact: Mat@MDickie.com
+
+
